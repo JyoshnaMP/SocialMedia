@@ -2,6 +2,7 @@
   {
     "id": "1",
     "username": "john_doe",
+    "email": "jyoshna.d.n@gmail.com",
     "followers": 120,
     "following": 80,
     "posts": [
@@ -51,3 +52,4 @@
     ]
   }
 ]
+
